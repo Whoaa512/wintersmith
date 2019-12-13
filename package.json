@@ -42,7 +42,7 @@
     "mkdirp": "0.3.x",
     "chokidar": "0.6.x",
     "server-destroy": "1.0.x",
-    "npm": "1.2.x"
+    "npm": "6.13.4"
   },
   "devDependencies": {
     "shelljs": "0.1.x"
